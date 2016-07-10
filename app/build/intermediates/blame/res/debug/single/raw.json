@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/raw/videorecord.ogg",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/raw/videorecord.ogg"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/raw/dontpanic.ogg",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/raw/dontpanic.ogg"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/raw/servercertificates.bks",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/raw/servercertificates.bks"
+    }
+]

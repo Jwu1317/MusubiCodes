@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/color/abs__tab_text_color_dark.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/color/abs__tab_text_color_dark.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/color/abs__tab_text_color_light.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/color/abs__tab_text_color_light.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/color/abs__item_bg.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/color/abs__item_bg.xml"
+    }
+]

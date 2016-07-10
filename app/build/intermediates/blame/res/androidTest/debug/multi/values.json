@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 52,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 46,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/androidTest/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            }
+        ]
+    }
+]

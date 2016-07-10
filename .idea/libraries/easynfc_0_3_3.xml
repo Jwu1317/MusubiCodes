@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="easynfc-0.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/easynfc-0.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

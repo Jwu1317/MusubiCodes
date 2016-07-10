@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/musubi_disabled.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/musubi_disabled.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/action_item_selected.9.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/action_item_selected.9.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/status_yellow.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/status_yellow.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_conversation.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_conversation.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/play.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/launcher_icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/logout.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_attach_picture_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_attach_picture_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/protected_icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/protected_icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/focusable_background.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/focusable_background.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_allfriends.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_allfriends.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/login.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/login.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_upload.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_upload.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/facebook_icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/facebook_icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ignored_overlay.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ignored_overlay.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_more.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_more.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/status_green.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/status_green.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/shout.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/shout.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_conversation_green.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_conversation_green.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/image_preview.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/image_preview.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/actionbar_compat_item_focused.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/actionbar_compat_item_focused.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/stat_sys_gps_on.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/stat_sys_gps_on.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_attach_capture_audio_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_attach_capture_audio_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/wordplay_icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/wordplay_icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_light.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__cab_ic_close_holo.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__cab_ic_close_holo.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/frame_gallery_thumb.9.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/frame_gallery_thumb.9.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_dark.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_friendslist.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_friendslist.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/becky.jpg",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/becky.jpg"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/actionbar_compat_item.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/actionbar_compat_item.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/sketch.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/sketch.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_edit.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_edit.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/logout_down.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/logout_down.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/qr.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/qr.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_contact_picture.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_contact_picture.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__spinner_background_holo_light.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__spinner_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/google.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/google.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_add_contact_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_add_contact_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/facebook.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/facebook.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/login_button.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/login_button.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/picsay_icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/picsay_icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/sketch_cat.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/sketch_cat.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_attach_capture_picture_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_attach_capture_picture_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_dialog.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_dialog.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_my_profile.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_my_profile.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/logout_button.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/logout_button.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__spinner_background_holo_dark.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__spinner_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/musubi_enabled.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/musubi_enabled.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/group_icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/group_icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__tab_indicator_holo.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__tab_indicator_holo.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/login_down.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/login_down.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/cat.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/cat.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_text_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_text_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_light.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/stat_sys_gps.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/stat_sys_gps.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_attach_capture_video_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_attach_capture_video_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/icon_full.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/icon_full.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_set_profile_picture.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_set_profile_picture.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/sharebox.9.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/sharebox.9.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_love_red.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_love_red.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_attach_audio_holo_light.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_attach_audio_holo_light.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/phone.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/phone.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/actionbar_compat_item_pressed.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/actionbar_compat_item_pressed.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/titlebar1.9.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/titlebar1.9.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_love.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_love.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_preferences.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_preferences.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/ic_menu_refresh.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/close.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/close.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/status_nearby.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/status_nearby.png"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/drawable/status_red.png",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/drawable/status_red.png"
+    }
+]

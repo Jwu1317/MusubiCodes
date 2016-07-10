@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/values-large-v4/values-large-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-large/abs__styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

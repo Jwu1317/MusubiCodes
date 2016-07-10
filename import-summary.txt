@@ -1,0 +1,69 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* README.txt
+* default.properties
+* proguard.cfg
+* test/
+* test/.project~
+* test/proguard.cfg
+* test/project.properties
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+guava-r08.jar => com.google.guava:guava:18.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/armeabi-v7a/libiLBC_codec.so => app/src/main/jniLibs/armeabi-v7a/libiLBC_codec.so
+* libs/armeabi/libiLBC_codec.so => app/src/main/jniLibs/armeabi/libiLBC_codec.so
+* libs/bson4jackson-1.3.0.jar => app/libs/bson4jackson-1.3.0.jar
+* libs/commons-httpclient-3.1.jar => app/libs/commons-httpclient-3.1.jar
+* libs/commons-io-1.2.jar => app/libs/commons-io-1.2.jar
+* libs/commons-lang3-3.1.jar => app/libs/commons-lang3-3.1.jar
+* libs/core.jar => app/libs/core.jar
+* libs/easynfc-0.3.3.jar => app/libs/easynfc-0.3.3.jar
+* libs/httpmime-4.0.jar => app/libs/httpmime-4.0.jar
+* libs/jackson-all-1.9.4.jar => app/libs/jackson-all-1.9.4.jar
+* libs/javatuples-1.2.jar => app/libs/javatuples-1.2.jar
+* libs/rabbitmq-client.jar => app/libs/rabbitmq-client.jar
+* libs/socialkit-0.3.0.jar => app/libs/socialkit-0.3.0.jar
+* libs/trove-3.0.2.jar => app/libs/trove-3.0.2.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* test/res/ => app/src/androidTest/res/
+* test/src/ => app/src/androidTest/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

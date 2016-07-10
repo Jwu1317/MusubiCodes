@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/menu/nearby_activity.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/menu/nearby_activity.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/menu/feed_list_activity.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/menu/feed_list_activity.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/menu/feed_group.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/menu/feed_group.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/menu/feed_fixed.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/menu/feed_fixed.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/menu/relationships_activity.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/menu/relationships_activity.xml"
+    }
+]

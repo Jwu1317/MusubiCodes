@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/xml/contacts.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/xml/contacts.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/xml/syncadapter.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/xml/syncadapter.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/xml/text_widget.xml",
+        "source": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/xml/text_widget.xml"
+    }
+]

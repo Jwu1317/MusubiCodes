@@ -1,0 +1,553 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:2:1-350:12
+	package
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:6:5-34
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:3:5-35
+uses-sdk
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:13:22-83
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:15:5-74
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:19:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.NFC
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:21:5-62
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:21:22-59
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:22:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:23:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:27:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:28:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:29:22-65
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:30:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:31:5-74
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:31:22-71
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:32:5-78
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:32:22-75
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:33:22-77
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:34:22-70
+uses-feature#android.hardware.telephony
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:39:9-50
+uses-feature#android.hardware.camera
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:42:9-47
+application
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:45:5-348:19
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:48:9-41
+	android:icon
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:47:9-38
+	android:theme
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:49:9-40
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:46:9-28
+uses-library#com.google.android.maps
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:50:9-52:40
+	android:required
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:51:13-51
+provider#mobisocial.musubi.provider.MusubiContentProvider
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:54:9-56:51
+	android:authorities
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:56:13-48
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:55:13-59
+activity#mobisocial.musubi.ui.util.IntentProxyActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:58:9-63:20
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:58:19-62
+intent-filter#android.intent.category.DEFAULT+musubi.intent.action.PROXY_INTENT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:59:13-62:29
+action#musubi.intent.action.PROXY_INTENT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:60:17-75
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:60:25-73
+category#android.intent.category.DEFAULT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:61:17-75
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:61:27-73
+activity#mobisocial.musubi.BootstrapActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:64:9-69:82
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:67:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:68:13-54
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:69:13-79
+	android:icon
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:66:13-51
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:65:13-46
+activity#mobisocial.musubi.ui.FeedListActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:70:9-81:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:73:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:75:13-54
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:74:13-48
+	android:icon
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:72:13-51
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:71:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:76:13-80:29
+action#android.intent.action.MAIN
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:79:27-74
+activity#mobisocial.musubi.ui.PickFeedActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:82:9-93:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:86:13-46
+	android:exported
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:83:13-36
+	android:windowSoftInputMode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:88:13-54
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:87:13-48
+	android:icon
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:85:13-51
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:84:13-48
+intent-filter#android.intent.category.DEFAULT+musubi.intent.action.PICK_FEED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:89:13-92:29
+action#musubi.intent.action.PICK_FEED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:90:17-73
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:90:25-70
+activity#mobisocial.musubi.ui.FeedPannerActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:94:9-104:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:96:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:98:13-67
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:97:13-48
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:95:13-50
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:99:13-103:29
+action#android.intent.action.VIEW
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:100:17-69
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:100:25-66
+data
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:102:17-88
+	android:mimeType
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:102:23-85
+activity#com.google.zxing.client.android.encode.EncodeActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:105:9-109:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:107:13-43
+	android:theme
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:108:13-56
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:106:13-81
+service#mobisocial.musubi.service.MusubiService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:111:9-58
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:111:18-55
+service#mobisocial.musubi.service.MusubiIntentService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:112:9-64
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:112:18-61
+service#mobisocial.musubi.service.WebRenderService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:113:9-61
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:113:18-58
+service#mobisocial.musubi.service.AMQPService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:114:9-56
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:114:18-53
+service#mobisocial.musubi.service.AppUpdaterService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:115:9-62
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:115:18-59
+service#mobisocial.musubi.nearby.broadcast.WifiFingerprintService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:116:9-76
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:116:18-73
+service#mobisocial.musubi.syncadapter.SyncService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:117:9-130:19
+	android:exported
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:119:13-36
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:118:13-69
+intent-filter#android.content.SyncAdapter
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:120:13-122:29
+action#android.content.SyncAdapter
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:121:17-70
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:121:25-67
+meta-data#android.content.SyncAdapter
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:124:13-126:55
+	android:resource
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:126:17-52
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:125:17-59
+meta-data#android.provider.CONTACTS_STRUCTURE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:127:13-129:52
+	android:resource
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:129:17-49
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:128:17-67
+service#mobisocial.musubi.syncadapter.AuthenticatorService
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:131:9-141:19
+	android:exported
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:133:13-36
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:132:13-61
+intent-filter#android.accounts.AccountAuthenticator
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:134:13-136:29
+action#android.accounts.AccountAuthenticator
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:135:17-80
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:135:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:138:13-140:57
+	android:resource
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:140:17-54
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:139:17-69
+receiver#mobisocial.musubi.StartupIntentReceiver
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:143:9-148:20
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:143:19-56
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.HOME
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:144:13-147:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:145:17-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:145:25-76
+category#android.intent.category.HOME
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:146:17-73
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:146:27-70
+receiver#mobisocial.musubi.apps.PackageModifiedReceiver
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:149:9-155:20
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:149:19-80
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:150:13-154:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:151:17-80
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:151:25-77
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:152:17-78
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:152:25-75
+activity#mobisocial.musubi.HandleNfcContact
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:157:9-170:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:159:13-55
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:158:13-62
+intent-filter#android.intent.category.DEFAULT+mobisocial.musubi.HANDLE_NFC_CONTACT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:160:13-163:29
+action#mobisocial.musubi.HANDLE_NFC_CONTACT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:161:17-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:161:25-76
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:164:13-169:29
+category#android.intent.category.BROWSABLE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:167:17-78
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:167:27-75
+activity#mobisocial.musubi.ui.ViewObjectActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:172:9-178:20
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:172:19-56
+activity#mobisocial.musubi.VoiceRecordActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:179:9-183:20
+	android:theme
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:182:13-56
+	android:taskAffinity
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:181:13-36
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:180:13-48
+activity#mobisocial.musubi.ImageGalleryActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:184:9-187:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:186:13-45
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:185:13-66
+activity#mobisocial.musubi.ui.SettingsActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:188:9-192:16
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:190:13-51
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:191:13-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:189:13-48
+activity#mobisocial.musubi.ui.RelationshipsActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:193:9-62
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:193:19-59
+activity#mobisocial.musubi.ui.ViewProfileActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:194:9-207:20
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:196:13-63
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:195:13-51
+activity#mobisocial.musubi.ui.NearbyActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:208:9-211:57
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:210:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:211:13-54
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:209:13-46
+activity#org.mobisocial.appmanifest.AppManifestHandler
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:212:9-226:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:214:13-37
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:213:13-73
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:221:13-225:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:222:17-77
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:222:25-74
+activity#mobisocial.musubi.util.AddressBookPicker
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:227:9-60
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:227:19-57
+activity#mobisocial.musubi.MembersActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:228:9-231:53
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:230:13-55
+	android:theme
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:231:13-50
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:229:13-44
+activity#mobisocial.musubi.ui.EmailUnclaimedMembersActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:232:9-235:53
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:234:13-55
+	android:theme
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:235:13-50
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:233:13-61
+activity#mobisocial.musubi.ui.AcceptFriendActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:236:9-247:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:238:13-56
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:237:13-52
+activity#mobisocial.musubi.ui.ClaimKeyActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:248:9-259:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:250:13-52
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:249:13-48
+activity#mobisocial.musubi.ui.SendContentActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:260:9-278:20
+	android:windowSoftInputMode
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:262:13-55
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:261:13-51
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:263:13-277:29
+action#android.intent.action.SEND
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:264:17-69
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:264:25-66
+activity#mobisocial.musubi.ui.CreateAppFeedActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:279:9-286:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:281:13-48
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:280:13-53
+intent-filter#android.intent.category.DEFAULT+musubi.intent.action.CREATE_FEED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:282:13-285:29
+action#musubi.intent.action.CREATE_FEED
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:283:17-75
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:283:25-72
+activity#mobisocial.musubi.webapp.AppCorralActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:288:9-290:54
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:290:13-51
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:289:13-53
+activity#mobisocial.musubi.ui.FeedDetailsActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:292:9-127
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:292:58-124
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:292:19-57
+activity#mobisocial.musubi.webapp.WebAppActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:294:9-296:82
+	android:exported
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:295:13-37
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:296:13-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:294:19-56
+activity#mobisocial.musubi.webapp.SketchWrapperActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:297:9-306:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:299:13-35
+	android:configChanges
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:298:13-79
+	android:icon
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:300:13-44
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:297:19-63
+intent-filter#android.intent.category.DEFAULT+musubi.intent.action.SKETCH
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:301:13-305:29
+action#musubi.intent.action.SKETCH
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:302:17-69
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:302:25-67
+activity#mobisocial.musubi.ui.LatestPictureActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:308:10-312:21
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:310:13-43
+	android:icon
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:311:13-42
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:309:13-53
+receiver#mobisocial.musubi.RemoteControlReceiver
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:314:9-320:20
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:314:19-56
+intent-filter#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:315:13-317:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:316:17-77
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:316:25-74
+activity#mobisocial.musubi.syncadapter.AuthenticatorActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:319:13-92
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:319:23-89
+receiver#mobisocial.musubi.util.ConnectionMonitor
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:321:9-326:20
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:321:19-57
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.STATE_CHANGE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:322:13-325:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:323:17-79
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:323:25-76
+action#android.net.wifi.STATE_CHANGE
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:324:17-72
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:324:25-69
+activity#mobisocial.musubi.ui.DatabaseLoaderActivity
+ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:344:9-347:20
+	android:label
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:346:13-50
+	android:name
+		ADDED from /Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/AndroidManifest.xml:345:13-54

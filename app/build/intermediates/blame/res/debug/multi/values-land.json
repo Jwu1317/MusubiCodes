@@ -1,0 +1,142 @@
+[
+    {
+        "outputFile": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/values-land/values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 62,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 69,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 69,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 188,
+                    "endColumn": 65,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 994,
+                        "endColumn": 65,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 66,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 66,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 62,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 883,
+                        "endColumn": 62,
+                        "endOffset": 941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 55,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__config.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-land/abs__styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    }
+]

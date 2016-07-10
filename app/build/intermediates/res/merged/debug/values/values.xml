@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abs__config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <bool name="is_tablet">false</bool>
+    <color name="abs__item_focused">#FF6899FF</color>
+    <color name="actionbar_title_color">#224894</color>
+    <color name="background1">#ffffffff</color>
+    <color name="background2">#ffffffff</color>
+    <color name="background3">#ffffffff</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="default_tab_selected">#ff6495ed</color>
+    <color name="default_title_indicator_footer_color">#FF6899FF</color>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="foreground1">#ff282828</color>
+    <color name="foreground2">#ff282828</color>
+    <color name="title_background">#ff282828</color>
+    <color name="title_separator">#00ffffff</color>
+    <color name="title_text">#ffffffff</color>
+    <color name="title_text_alt">#ff000000</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    <declare-styleable name="AppTheme"><attr format="reference" name="actionbarCompatTitleStyle"/><attr format="reference" name="actionbarCompatItemStyle"/><attr format="reference" name="actionbarCompatItemHomeStyle"/><attr format="reference" name="actionbarCompatProgressIndicatorStyle"/></declare-styleable>
+    <declare-styleable name="BezelImageView"><attr format="reference" name="maskDrawable"/><attr format="reference" name="borderDrawable"/></declare-styleable>
+    <declare-styleable name="BlocksLayout"><attr format="integer" name="columns"/></declare-styleable>
+    <declare-styleable name="CirclePageIndicator"><attr format="boolean" name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr format="dimension" name="strokeWidth"/></declare-styleable>
+    <declare-styleable name="SherlockTheme"><attr format="reference" name="actionDropDownStyle"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionHomeButtonStyle"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="actionSpinnerItemStyle"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr name="abNavigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="abDisplayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/></attr><attr format="string" name="abTitle"/><attr format="string" name="abSubtitle"/><attr format="reference" name="abTitleTextStyle"/><attr format="reference" name="abSubtitleTextStyle"/><attr format="reference" name="abIcon"/><attr format="reference" name="abLogo"/><attr format="reference|color" name="abDivider"/><attr format="reference|color" name="abBackground"/><attr format="reference|color" name="abBackgroundStacked"/><attr format="reference" name="abCustomNavigationLayout"/><attr format="reference|dimension" name="abHeight"/><attr format="reference" name="abHomeLayout"/><attr format="reference" name="abProgressBarStyle"/><attr format="reference" name="abIndeterminateProgressStyle"/><attr format="dimension" name="abProgressBarPadding"/><attr format="dimension" name="abItemPadding"/></declare-styleable>
+    <declare-styleable name="TimeRulerView"><attr format="dimension" name="headerWidth"/><attr format="dimension" name="hourHeight"/><attr format="boolean" name="horizontalDivider"/><attr format="dimension" name="labelTextSize"/><attr format="dimension" name="labelPaddingLeft"/><attr format="color" name="labelColor"/><attr format="color" name="dividerColor"/><attr format="integer" name="startHour"/><attr format="integer" name="endHour"/></declare-styleable>
+    <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr format="color" name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiTabTextStyle"/></declare-styleable>
+    <dimen name="abs__action_bar_default_height">48dip</dimen>
+    <dimen name="abs__action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abs__action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abs__action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abs__action_bar_title_text_size">18dp</dimen>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="title_height">45dip</dimen>
+    <drawable name="black">#000000</drawable>
+    <drawable name="brown">#BCA254</drawable>
+    <drawable name="feed_header">#BCA254</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <item name="abs__action_menu_presenter" type="id"/>
+    <item name="header_view" type="id"/>
+    <item name="holder" type="id"/>
+    <item name="image" type="id"/>
+    <item name="object_entry" type="id"/>
+    <item name="position" type="id"/>
+    <item name="status" type="id"/>
+    <item name="submit" type="id"/>
+    <integer name="abs__max_action_buttons">3</integer>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <string name="about_intro">This application was developed by the Mobisocial Lab at Stanford University (http://mobisocial.stanford.edu). \n\nIcons from www.freeiconsweb.com/</string>
+    <string name="abs__tab_under_ab_tag">tabUnderAb</string>
+    <string name="account_name">Me</string>
+    <string name="account_type">edu.stanford.mobisocial</string>
+    <string name="active">Is Active.</string>
+    <string name="add">Add</string>
+    <string name="add_people">Add People</string>
+    <string name="all_done">All done!</string>
+    <string name="app_name">Musubi</string>
+    <string name="app_store_name">App Corral</string>
+    <string name="apps">Apps</string>
+    <string name="apps_with_friends">Let my friends see what apps I install</string>
+    <string name="button_ok">OK</string>
+    <string name="connecting_to_google">Connecting to Google...</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="country_code">+</string>
+    <string name="create_feed">Create Feed</string>
+    <string name="default_intro">This is the default content view for an activity. Be sure to change your activity\'s onCreate method. Use setContentView on a custom layout.</string>
+    <string name="delete">Delete Post</string>
+    <string name="delete_feed">Delete Feed?</string>
+    <string name="delete_feed_message">All messages and pictures in this feed will be deleted permanently from your device.  They will not be deleted from other devices. You may delete a specific item from all device within the feed by long pressing it and choosing delete.</string>
+    <string name="description_about">About</string>
+    <string name="description_broadcast">Broadcast</string>
+    <string name="description_home">Home</string>
+    <string name="description_logo">Musubi</string>
+    <string name="description_search">Search</string>
+    <string name="done_importing">Done Importing</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_checkbox">I have read and understood this EULA and agree to be bound by it.  I also agree to the terms of the Privacy Policy.</string>
+    <string name="eula_dismiss">OK</string>
+    <string name="eula_email">Email to Me</string>
+    <string name="eula_loading">Loading EULA..</string>
+    <string name="eula_reject">Quit</string>
+    <string name="eula_title">EULA</string>
+    <string name="facebook_failed">Facebook Error</string>
+    <string name="facebook_retry">Failed to connect to Facebook. Would you like to retry?</string>
+    <string name="finding_friends">Finding friends…</string>
+    <string name="finish">Finish</string>
+    <string name="go">Go</string>
+    <string name="go_on">Go on</string>
+    <string name="google_failed">Google Error</string>
+    <string name="google_retry">Failed to connect to Google account. Would you like to retry?</string>
+    <string name="introduced">Added these people:</string>
+    <string name="invite_friends">Invite</string>
+    <string name="join_email_body">Join me on Musubi, an app for sharing!
+	                    To get started, install the Musubi app on your Android phone from the Play Store:</string>
+    <string name="join_email_subtext">Once you have Musubi, click here connect with me:</string>
+    <string name="link_accounts">Link Accounts</string>
+    <string name="main_no_items">No status updates</string>
+    <string name="menu_share">Share</string>
+    <string name="msg_encode_barcode_failed">Could not generate the requested barcode.</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="musubi_ready">You\'re ready to use Musubi.</string>
+    <string name="new_group">Add Group</string>
+    <string name="new_shared_contact">Shared Contact</string>
+    <string name="next">Next</string>
+    <string name="no">No</string>
+    <string name="ok">Okay</string>
+    <string name="people">People</string>
+    <string name="pick_feed">Pick a Feed</string>
+    <string name="presence">Presence</string>
+    <string name="profile">Profile</string>
+    <string name="qr_directions">Give your contact info to a friend by letting them scan this QR code.</string>
+    <string name="qr_scan_friend">Scan a Friend</string>
+    <string name="really_skip_friend_import">You have not selected any accounts for finding friends Are you sure you want to skip importing friends?</string>
+    <string name="request">Request!</string>
+    <string name="retry">Retry</string>
+    <string name="scan_here">Scan Here</string>
+    <string name="search_intro">Content for the Search page goes here.</string>
+    <string name="send">Send</string>
+    <string name="shared_from_musubi">Picture from Musubi</string>
+    <string name="shared_from_musubi_blurb">Check out this picture from Musubi, an app for sharing! Get it for Android: http://play.google.com/store/apps/details?id=mobisocial.musubi</string>
+    <string name="shared_text_from_musubi">Message from Musubi</string>
+    <string name="skip_friend_import">Skip friend import?</string>
+    <string name="start">Running...</string>
+    <string name="stat_ok">OK</string>
+    <string name="stopping">Shutting down...</string>
+    <string name="title_about">About</string>
+    <string name="title_accept_friend">Add Contact</string>
+    <string name="title_add">Add</string>
+    <string name="title_claim_key">Verify Account</string>
+    <string name="title_friend">Friend</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_group">Group</string>
+    <string name="title_groups">Groups</string>
+    <string name="title_home">Home</string>
+    <string name="title_latest">Latest</string>
+    <string name="title_loading">Loading...</string>
+    <string name="title_members_list">Group Members</string>
+    <string name="title_nearby">Nearby</string>
+    <string name="title_new">New...</string>
+    <string name="title_new_group">New Group</string>
+    <string name="title_pin">Check-In</string>
+    <string name="title_presence_list">Share...</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="title_relationships">Relationships</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+    <string name="upload">Upload Photo</string>
+    <string name="yes">Yes</string>
+    <style name="Animation_SlideFromTop">
+        <item name="android:windowEnterAnimation">@anim/slide_in_down</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_up</item>
+    </style>
+    <style name="Animation_SlideFromTopHalfHeight">
+        <item name="android:windowEnterAnimation">@anim/slide_in_down_short_height</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_up</item>
+    </style>
+    <style name="Animations"/>
+    <style name="AppTheme" parent="Theme.Sherlock.Light">
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style>
+    <style name="Dialog_Fullscreen">
+	    <item name="android:windowFullscreen">true</item>
+	    <item name="android:windowNoTitle">true</item>
+	</style>
+    <style name="HomeButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="HomeText">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/foreground1</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="TextAppearance.TabPageIndicator" parent="Widget">
+        
+    </style>
+    <style name="TextAppearance.Widget.Subtitle" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textSize">@dimen/abs__action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.Widget.Title" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+        <item name="android:textSize">@dimen/abs__action_bar_title_text_size</item>
+    </style>
+    <style name="TextBody">
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+        <item name="android:textColor">@android:color/secondary_text_light</item>
+    </style>
+    <style name="Theme" parent="android:Theme"/>
+    <style name="Theme.D1" parent="android:style/Theme.Light">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.D1dialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">@android:color/background_light</item>
+    </style>
+    <style name="Theme.D1dialognotitle" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:background">@android:color/background_light</item>
+    </style>
+    <style name="Theme.D1t" parent="android:style/Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.D1tranlucent" parent="android:style/Theme.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiCirclePageIndicatorStyle">@style/Widget.CirclePageIndicator</item>
+        <item name="vpiTitlePageIndicatorStyle">@style/Widget.TitlePageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+        <item name="vpiTabTextStyle">@style/Widget.TabPageIndicator.Text</item>
+    </style>
+    <style name="Theme.Sherlock" parent="android:Theme.NoTitleBar">
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.ActionButton</item>
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Spinner</item>
+        <item name="actionHomeButtonStyle">@style/Widget.Sherlock.ActionButton.Home</item>
+        <item name="actionMenuTextAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryNoDisable</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__cab_ic_close_holo</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.ActionButton.CloseMode</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.ActionButton.Overflow</item>
+        <item name="actionSpinnerItemStyle">@style/Widget.Sherlock.TextView.SpinnerItem.ActionBar</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.ListView.DropDown</item>
+        <item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_dark</item>
+        <item name="popupMenuStyle">@style/Widget.Sherlock.PopupMenu</item>
+        <item name="selectableItemBackground">@color/abs__item_bg</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowNoTitle">false</item>
+        
+        <!-- These should be in `Widget.Sherlock.ActionBar` but there is no way to then -->
+        <!-- reference them as sibling attributes to their native counterparts. See: -->
+        <!-- http://stackoverflow.com/questions/6486594/access-sibling-style-attributes-in-a-non-theme-style -->
+        <item name="abBackground">@android:color/transparent</item>
+        <item name="abBackgroundStacked">@drawable/abs__ab_stacked_transparent_dark_holo</item>
+        <item name="abCustomNavigationLayout">@null</item>
+        <item name="abDisplayOptions">useLogo|showHome|showTitle</item>
+        <item name="abDivider">@drawable/abs__action_item_divider</item>
+        <item name="abHeight">?actionBarSize</item>
+        <item name="abHomeLayout">@null</item>
+        <item name="abIcon">@null</item>
+        <item name="abIndeterminateProgressStyle">@android:style/Widget.ProgressBar.Small</item>
+        <item name="abItemPadding">8dip</item>
+        <item name="abLogo">@null</item>
+        <item name="abNavigationMode">normal</item>
+        <item name="abTitle">@null</item>
+        <item name="abTitleTextStyle">@style/TextAppearance.Widget.Title</item>
+        <item name="abProgressBarPadding">32dip</item>
+        <item name="abProgressBarStyle">@android:style/Widget.ProgressBar.Horizontal</item>
+        <item name="abSubtitle">@null</item>
+        <item name="abSubtitleTextStyle">@style/TextAppearance.Widget.Subtitle</item>
+    </style>
+    <style name="Theme.Sherlock.Light" parent="android:Theme.Light.NoTitleBar">
+        <item name="actionBarSize">@dimen/abs__action_bar_default_height</item>
+        <item name="actionBarTabStyle">@style/Widget.Sherlock.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.Sherlock.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.Sherlock.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.Sherlock.Light.ActionButton</item>
+        <item name="actionDropDownStyle">@style/Widget.Sherlock.Light.Spinner</item>
+        <item name="actionHomeButtonStyle">@style/Widget.Sherlock.Light.ActionButton.Home</item>
+        <item name="actionMenuTextAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryNoDisable</item>
+        <item name="actionModeBackground">@drawable/abs__cab_background_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abs__cab_ic_close_holo</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.Sherlock.Light.ActionButton.CloseMode</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.Sherlock.Light.ActionButton.Overflow</item>
+        <item name="actionSpinnerItemStyle">@style/Widget.Sherlock.Light.TextView.SpinnerItem.ActionBar</item>
+        <item name="dropDownListViewStyle">@style/Widget.Sherlock.Light.ListView.DropDown</item>
+        <item name="dropdownListPreferredItemHeight">48dip</item>
+        <item name="homeAsUpIndicator">@drawable/abs__ic_ab_back_holo_light</item>
+        <item name="popupMenuStyle">@style/Widget.Sherlock.Light.PopupMenu</item>
+        <item name="selectableItemBackground">@color/abs__item_bg</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowActionBarOverlay">false</item>
+        <item name="windowActionModeOverlay">false</item>
+        <item name="windowNoTitle">false</item>
+        
+        <!-- These should be in `Widget.Sherlock.ActionBar` but there is no way to then -->
+        <!-- reference them as sibling attributes to their native counterparts. See: -->
+        <!-- http://stackoverflow.com/questions/6486594/access-sibling-style-attributes-in-a-non-theme-style -->
+        <item name="abBackground">@android:color/transparent</item>
+        <item name="abBackgroundStacked">@drawable/abs__ab_stacked_transparent_light_holo</item>
+        <item name="abCustomNavigationLayout">@null</item>
+        <item name="abDisplayOptions">useLogo|showHome|showTitle</item>
+        <item name="abDivider">@drawable/abs__action_item_divider</item>
+        <item name="abHeight">?actionBarSize</item>
+        <item name="abHomeLayout">@null</item>
+        <item name="abIcon">@null</item>
+        <item name="abIndeterminateProgressStyle">@android:style/Widget.ProgressBar.Small</item>
+        <item name="abItemPadding">8dip</item>
+        <item name="abLogo">@null</item>
+        <item name="abNavigationMode">normal</item>
+        <item name="abTitle">@null</item>
+        <item name="abTitleTextStyle">@style/TextAppearance.Widget.Title</item>
+        <item name="abProgressBarPadding">32dip</item>
+        <item name="abProgressBarStyle">@android:style/Widget.ProgressBar.Horizontal</item>
+        <item name="abSubtitle">@null</item>
+        <item name="abSubtitleTextStyle">@style/TextAppearance.Widget.Subtitle</item>
+    </style>
+    <style name="Widget"/>
+    <style name="Widget.CirclePageIndicator" parent="Widget">
+        <item name="centered">@bool/default_circle_indicator_centered</item>
+        <item name="fillColor">@color/default_circle_indicator_fill_color</item>
+        <item name="pageColor">@color/default_circle_indicator_page_color</item>
+        <item name="orientation">@integer/default_circle_indicator_orientation</item>
+        <item name="radius">@dimen/default_circle_indicator_radius</item>
+        <item name="snap">@bool/default_circle_indicator_snap</item>
+        <item name="strokeColor">@color/default_circle_indicator_stroke_color</item>
+        <item name="strokeWidth">@dimen/default_circle_indicator_stroke_width</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabBar" parent="android:Widget">
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabText" parent="android:Widget">
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:textColor">@color/abs__tab_text_color_dark</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Widget.Sherlock.ActionBar.TabView" parent="android:Widget">
+        <item name="android:background">@drawable/abs__tab_indicator_holo</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton" parent="android:Widget">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:minWidth">48dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton.CloseMode">
+    </style>
+    <style name="Widget.Sherlock.ActionButton.Home">
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+    </style>
+    <style name="Widget.Sherlock.ActionButton.Overflow">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabBar" parent="android:Widget">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabText" parent="android:Widget">
+        <item name="android:textAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="android:textColor">@color/abs__tab_text_color_light</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionBar.TabView" parent="android:Widget">
+        <item name="android:background">@drawable/abs__tab_indicator_holo</item>
+        <item name="android:paddingLeft">6dp</item>
+        <item name="android:paddingRight">6dp</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton" parent="android:Widget">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:minWidth">48dip</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton.CloseMode">
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton.Home">
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+    </style>
+    <style name="Widget.Sherlock.Light.ActionButton.Overflow">
+    </style>
+    <style name="Widget.Sherlock.Light.ListPopupWindow" parent="android:Widget.ListPopupWindow">
+    </style>
+    <style name="Widget.Sherlock.Light.ListView.DropDown" parent="android:Widget.ListView.DropDown">
+    </style>
+    <style name="Widget.Sherlock.Light.PopupMenu" parent="android:Widget.PopupMenu">
+    </style>
+    <style name="Widget.Sherlock.Light.Spinner" parent="android:Widget.Spinner.DropDown">
+        <item name="android:background">@drawable/abs__spinner_background_holo_light</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="Widget.Sherlock.Light.TextView.SpinnerItem.ActionBar" parent="android:Widget">
+        <item name="android:textColor">@color/abs__tab_text_color_light</item>
+    </style>
+    <style name="Widget.Sherlock.ListPopupWindow" parent="android:Widget.ListPopupWindow">
+    </style>
+    <style name="Widget.Sherlock.ListView.DropDown" parent="android:Widget.ListView.DropDown">
+    </style>
+    <style name="Widget.Sherlock.PopupMenu" parent="android:Widget.PopupMenu">
+    </style>
+    <style name="Widget.Sherlock.Spinner" parent="android:Widget.Spinner.DropDown">
+        <item name="android:background">@drawable/abs__spinner_background_holo_dark</item>
+        <item name="android:gravity">left|center_vertical</item>
+    </style>
+    <style name="Widget.Sherlock.TextView.SpinnerItem.ActionBar" parent="android:Widget">
+        <item name="android:textColor">@color/abs__tab_text_color_dark</item>
+    </style>
+    <style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+    </style>
+    <style name="Widget.TabPageIndicator.Text" parent="Widget">
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="Widget.TitlePageIndicator" parent="Widget">
+        <item name="clipPadding">@dimen/default_title_indicator_clip_padding</item>
+        <item name="footerColor">@color/default_title_indicator_footer_color</item>
+        <item name="footerLineHeight">@dimen/default_title_indicator_footer_line_height</item>
+        <item name="footerIndicatorStyle">@integer/default_title_indicator_footer_indicator_style</item>
+        <item name="footerIndicatorHeight">@dimen/default_title_indicator_footer_indicator_height</item>
+        <item name="footerIndicatorUnderlinePadding">@dimen/default_title_indicator_footer_indicator_underline_padding</item>
+        <item name="footerPadding">@dimen/default_title_indicator_footer_padding</item>
+        <item name="selectedColor">@color/default_title_indicator_selected_color</item>
+        <item name="selectedBold">@bool/default_title_indicator_selected_bold</item>
+        <item name="textColor">@color/default_title_indicator_text_color</item>
+        <item name="textSize">@dimen/default_title_indicator_text_size</item>
+        <item name="titlePadding">@dimen/default_title_indicator_title_padding</item>
+        <item name="topPadding">@dimen/default_title_indicator_top_padding</item>
+    </style>
+</resources>

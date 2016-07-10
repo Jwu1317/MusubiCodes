@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/rabbitmq-client.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc85c1d935fc6bcbca1f4899fc903b57596e0715">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/rabbitmq-client_8ad5185407e30b0f332a55f0017b8df572790de2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="31cb053432b7cd6fac1ab6566dd2c8cab56bdde3">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_56bc637277d32039ee2a557ff56e084045d70a46/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/socialkit-0.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="553f86216c84496129e884b2e5b66774cb0855a1">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/socialkit-0.3.0_40b6f86ef19e6592a96abefb8e35132699f4371b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-android-4.3.5.1_e7f3b810fde2ef88b38e49ddaef681f38af10dfa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/commons-httpclient-3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-httpclient-3.1_4e24877cd840c5c11b86bdefe668f6956c91d930/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/commons-lang3-3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-lang3-3.1_78a4383147db5ca050e4bac1caa287990a745922/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/commons-io-1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0ad6ae511ca4608a18317fcb19850fd113bb2ae8">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-1.2_3ed7b06ee4c2a978bfb8e7fdf3982771a6132ece/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/httpmime-4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ded70b76b604f4b4b499cb15a6f7cd4ce490ba0">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.0_88ff69194e169b7594f62723a36bc8f6c58d6268/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/javatuples-1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="507312ac4b601204a72a83380badbca82683dd36">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/javatuples-1.2_e81cdb24d36837b39d839457d68d62839d99efd4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/trove-3.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="50f382a35fe37d6700627a6490887b4bf8c97c3b">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/trove-3.0.2_70e4e1af966965ee36eed61ad4e2d06ee589c676/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8681786b0b374818de539fd65ff28ace512dcd04">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0cf92654bc8fa42bb424ed7d406e06e59c8b4bfe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/core.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="93a58f05fcdceedbcb18875404ff0d82492a5d63">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/core_57259d3ba81127503f51e4951b1e0b30e44a7e06/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/jackson-all-1.9.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd33d9a33708316e793581e9e6f6f2c6d2b98c6f">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-all-1.9.4_ac3b158aac66acb4a0651b21762002c31fdd2c1b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/bson4jackson-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="461da1d34694b7fbd8f0c04177f4059dda5c270c">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/bson4jackson-1.3.0_3f541c6a292147bce4666d1734e2cae6dbe261f9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-18.0_dc3c4be04454169291805a700e714b76fa6a57ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/libs/easynfc-0.3.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="115f4a2af140c49086a72391f0e4de187b5a41d2">
+        <dex dex="/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/transforms/dex/debug/folders/1000/2/easynfc-0.3.3_9a4a4e8cb80d9b62e73fd079fbb30d21818dc7de/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 98,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v13/abs__styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 105,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 100,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v13/abs__styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 107,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 100,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v13/abs__styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 107,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 110,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v13/abs__styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 117,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 112,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v13/abs__styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 119,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 112,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v13/abs__styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 119,
+                        "endOffset": 616
+                    }
+                }
+            }
+        ]
+    }
+]

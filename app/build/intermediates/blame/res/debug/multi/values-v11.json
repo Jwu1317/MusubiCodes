@@ -1,0 +1,357 @@
+[
+    {
+        "outputFile": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4596,
+                        "endLine": 86,
+                        "endColumn": 12,
+                        "endOffset": 5806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2492
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 11177,
+                        "endLine": 181,
+                        "endColumn": 12,
+                        "endOffset": 12399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2497,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 7031
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 66,
+                        "endColumn": 12,
+                        "endOffset": 4590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7036,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 11653
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6550,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 11167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 11658,
+                    "endColumn": 90,
+                    "endOffset": 11744
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5821,
+                        "endColumn": 97,
+                        "endOffset": 5914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 11749,
+                    "endColumn": 110,
+                    "endOffset": 11855
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 6007,
+                        "endColumn": 117,
+                        "endOffset": 6120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 11860,
+                    "endColumn": 108,
+                    "endOffset": 11964
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 6125,
+                        "endColumn": 115,
+                        "endOffset": 6236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 11969,
+                    "endColumn": 102,
+                    "endOffset": 12067
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 12409,
+                        "endColumn": 109,
+                        "endOffset": 12514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 12072,
+                    "endColumn": 122,
+                    "endOffset": 12190
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 12619,
+                        "endColumn": 129,
+                        "endOffset": 12744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12195,
+                    "endColumn": 120,
+                    "endOffset": 12311
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 12749,
+                        "endColumn": 127,
+                        "endOffset": 12872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 12316,
+                    "endColumn": 108,
+                    "endOffset": 12420
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 12997,
+                        "endColumn": 115,
+                        "endOffset": 13108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 12425,
+                    "endColumn": 112,
+                    "endOffset": 12533
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 12877,
+                        "endColumn": 119,
+                        "endOffset": 12992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 12538,
+                    "endColumn": 96,
+                    "endOffset": 12630
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 13113,
+                        "endColumn": 103,
+                        "endOffset": 13212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 12635,
+                    "endColumn": 92,
+                    "endOffset": 12723
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 12519,
+                        "endColumn": 99,
+                        "endOffset": 12614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 12728,
+                    "endColumn": 96,
+                    "endOffset": 12820
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6349,
+                        "endColumn": 103,
+                        "endOffset": 6448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 12825,
+                    "endColumn": 100,
+                    "endOffset": 12921
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 6241,
+                        "endColumn": 107,
+                        "endOffset": 6344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 12926,
+                    "endColumn": 84,
+                    "endOffset": 13006
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6453,
+                        "endColumn": 91,
+                        "endOffset": 6540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13011,
+                    "endColumn": 80,
+                    "endOffset": 13087
+                },
+                "from": {
+                    "file": "/Users/Jeffrey/AndroidStudioProjects/Musubi-Android-master1/app/src/main/res/values-v11/abs__styles.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5919,
+                        "endColumn": 87,
+                        "endOffset": 6002
+                    }
+                }
+            }
+        ]
+    }
+]
